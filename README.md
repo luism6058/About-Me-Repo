@@ -16,7 +16,6 @@ I go to to the *_High School of Telecommunications Arts and Technology_*, and I'
 
 ---
 ##### My Classes Are:
----
 * Software Engineering
 * Gym
 * English
