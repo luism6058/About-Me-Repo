@@ -1,7 +1,7 @@
 #Hello, Welcome to my About Me!
-My name is __Luis Marin__
+My name is _Luis Marin_
 Email: luism6058@hstat.org
-I go to to the *_High School of Telecommunications Arts and Technology_*, and I'm a student in the **SEP program**.
+I go to to the *_High School of Telecommunications Arts and Technology_*, and I'm a student in the **SEP program**.  
 I love: 
 1. history 
 2. programming 
