@@ -8,6 +8,9 @@ I go to to the *_High School of Telecommunications Arts and Technology_*, and I'
 3. English
 
 ---
+Email: [luism6058@hstat.org](https://sites.google.com/a/hstat.org/11sep1516/)
+
+---
 #### My favorite sports are: 
 1. baseball 
 2. swimming 
