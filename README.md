@@ -1,4 +1,13 @@
-My name is Luis Marin
+#Hello, Welcome to my About Me!
+My name is __Luis Marin__
 Email: luism6058@hstat.org
-I go to to the High School of Telecommunications Arts and Technology, and I'm a student in the SEP program.
-I love history, programming, and reading. My favorite sports are baseball, swimming, basketball and volley ball. 
+I go to to the *_High School of Telecommunications Arts and Technology_*, and I'm a student in the **SEP program**.
+I love: 
+1.history 
+2.programming 
+3.reading 
+My favorite sports are: 
+*baseball 
+* swimming 
+* basketball 
+* volley ball 
